@@ -29,3 +29,18 @@
 4. prettier 格式化代码
 
 - prettier- codeformatter
+
+5. 光标平滑
+
+6. ctrl 放大缩小
+
+7. emmet 语法
+
+- ul>li\*5
+
+8. 快捷键学习
+
+- shift + shift + N 打开一个新窗口
+- alt + up/down 移动
+- shift + alt + up/down 向下/向上复制
+- alt + command + up/down 多行编辑
