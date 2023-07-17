@@ -44,3 +44,11 @@
 - alt + up/down 移动
 - shift + alt + up/down 向下/向上复制
 - alt + command + up/down 多行编辑
+
+9. git 与 vscode 学习
+10. css 与 html 关联
+
+- css peek
+
+11. auto rename tag
+12. 颜色提示 color info
